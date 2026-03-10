@@ -151,20 +151,6 @@ These metrics help determine whether the feature:
 Implementation details: Implementation Planning Document
 
 **Implementation Planning**
-Repository Structure
-DoorDash-Product-Exploration/
-
-│
-├── Market Research Document.pdf
-├── Voice of Customer.pdf
-├── Ideation and Feature Prioritization.pdf
-├── PRD.pdf
-├── MVP Deliverable.pdf
-├── Implementation Planning.pdf
-├── Phase1_5Rs_DoorDash.pdf
-├── Phase2_5Rs_DoorDash.pdf
-└── RICE_Framework.png
-
 Each document represents a different stage of the product development process.
 
 **What This Project Demonstrates**
